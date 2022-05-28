@@ -82,20 +82,8 @@ class Result {
      */
     private static long maxvalue = Long.MIN_VALUE;
     public static long getMaxUnits(List<Long> boxes, List<Long> unitsPerBox, long truckSize) {
-        long c = 0;
-        int boxsize = boxes.size();
-        long res = 0;
-        for (int i = 0; i < boxsize; i++) {
-            c += boxes.get(i);
-            if (c <= truckSize) {
-                res += boxes.get(i) * unitsPerBox.get(i);
-                if (maxvalue < res) {
-                    maxvalue = res;
-                }
-            }
-        }
-        System.out.println(res);
-        return res;
+        //please add wechat at "LeeLock518" and pay through paypal u3193382@uni.canberra.edu.au to unlock the answer.
+        //email me at wds3817@gmail.com
     }
 }
 
