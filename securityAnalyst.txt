@@ -1,0 +1,16 @@
+Required Skills:
+Understanding of a broad range of information security tools, techniques and controls
+Operating systems
+Threat mitigation techniques
+Enterprise Vulnerability Management processes
+Understanding on malware analysis and/or network/endpoint forensics techniques/processes
+Emerging cyber threats
+Extraction of Indicators of Compromise (IoC) and how to leverage this information to enhance the security monitoring capability
+Hands on experience with Microsoft ATP Portals
+Familiar with O365 Security & Compliance centres
+Experience with SIEM technologies
+Highly Regarded:
+Experienced in threat intelligence, Elastic SIEM and investigations
+Experience managing & operating phishing awareness campaigns
+Scripting skills in PowerShell, Python and/or BASH
+Palo Alto firewall experience
