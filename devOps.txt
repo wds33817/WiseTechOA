@@ -1,0 +1,9 @@
+You can expect to work on the following technology:
+Azure DevOps, Azure CLI, Azure Container Registry and all aspects of Azure in general
+Monitoring tools such as ELK, Metric Server, Prometheus, Nagios, Stackify, etc
+C# and .Net Framework/core
+Linux systems and virtualisation technologies
+Windows Server, IIS and Nginx
+Scripting languages such as Python, Bash and PowerShell
+Jenkins, Docker and Kubernetes
+Elasticsearch, Ceph
