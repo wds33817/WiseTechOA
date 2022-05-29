@@ -89,11 +89,13 @@
      *    public class Q2 {  
      *    
      *    private static int totalPrice(String[][] products, String[][] discounts) {
-     *    
+     *      //please add wechat at "LeeLock518" and pay through paypal u3193382@uni.canberra.edu.au to unlock the answer.
+     *       //email me at wds3817@gmail.com
      *    }
      *    public static void main(String[] args) {
      *     
      *    }
+     *
      *    }
      *    
      *
